@@ -3,7 +3,8 @@
   "sourceLanguageTag": "en",
   "languageTags": [
     "en",
-    "de"
+    "de",
+    "hr"
   ],
   "modules": [
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest/dist/index.js",

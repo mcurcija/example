@@ -1,0 +1,19 @@
+{
+	"title": "Moja super Todo App",
+	"description": "Ovo je jednostavna aplikacija koja prikazuje Inlang u stvarnoj aplikaciji.",
+	"app_today": "Danas {date}",
+	"app_nrOfTodos": "{count} Zadaci",
+	"app_markAsDone": "Označi kao gotovo",
+	"app_markAsIncomplete": "Označi kao nedovršeno",
+	"app_deleteTodo": "Izbrisati",
+	"app_placeholder": "Dodaj zadatak...",
+	"app_addTodo": "Dodaj novi",
+	"pages_home_goToTodoApp": "Pokrenite Todo-App",
+	"pages_todo_goToHome": "Nazad",
+	"pages_error_404_title": "Stranica nije pronađena",
+	"pages_error_cta": "Kliknite ovdje za povratak na početnu stranicu",
+	"server_error_generic": "Došlo je do pogreške ",
+	"server_error_missingField": "Polje ' {field} ' nedostaje",
+	"server_error_incorrectField": "Polje ' {field} ' ima nevažeći tip podataka",
+	"server_logs_loaded": "Učitane je {count} zadataka"
+}
